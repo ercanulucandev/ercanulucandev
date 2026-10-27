@@ -22,7 +22,7 @@
   <a href="https://github.com/ercanulucandev" target="_blank"><img src="https://img.shields.io/badge/node.js-%23121011.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>
   <a href="https://github.com/ercanulucandev" target="_blank"><img src="https://img.shields.io/badge/react-%23121011.svg?style=for-the-badge&logo=react&logoColor=white" alt="React"/></a>
   <a href="https://github.com/ercanulucandev" target="_blank"><img src="https://img.shields.io/badge/next.js-%23121011.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/></a>
-  <a href="https://github.com/ercanulucandev" target="_blank"><img src="https://img.shields.io/badge/next.js-%23121011.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Nest.js"/></a>
+  <a href="https://github.com/ercanulucandev" target="_blank"><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js"/></a>
   <a href="https://github.com/ercanulucandev" target="_blank"><img src="https://img.shields.io/badge/express-%23121011.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express"/></a>
   <a href="https://github.com/ercanulucandev" target="_blank"><img src="https://img.shields.io/badge/bootstrap-%23121011.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
   <a href="https://github.com/ercanulucandev" target="_blank"><img src="https://img.shields.io/badge/tailwindcss-%23121011.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwindcss"/></a>
