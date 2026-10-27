@@ -26,6 +26,9 @@
   <a href="https://github.com/ercanulucandev" target="_blank"><img src="https://img.shields.io/badge/express-%23121011.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express"/></a>
   <a href="https://github.com/ercanulucandev" target="_blank"><img src="https://img.shields.io/badge/bootstrap-%23121011.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
   <a href="https://github.com/ercanulucandev" target="_blank"><img src="https://img.shields.io/badge/tailwindcss-%23121011.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwindcss"/></a>
+  <a href="https://github.com/ercanulucandev" target="_blank"><img src="https://img.shields.io/badge/postgresql-%23121011.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+<a href="https://github.com/ercanulucandev" target="_blank"><img src="https://img.shields.io/badge/sqlite-%23121011.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></a>
+<a href="https://github.com/ercanulucandev" target="_blank"><img src="https://img.shields.io/badge/prisma-%23121011.svg?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/></a>
 </p>
 
 ## Streak Stats
