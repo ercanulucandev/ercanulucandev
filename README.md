@@ -29,6 +29,11 @@
   <a href="https://github.com/ercanulucandev" target="_blank"><img src="https://img.shields.io/badge/postgresql-%23121011.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
 <a href="https://github.com/ercanulucandev" target="_blank"><img src="https://img.shields.io/badge/sqlite-%23121011.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></a>
 <a href="https://github.com/ercanulucandev" target="_blank"><img src="https://img.shields.io/badge/prisma-%23121011.svg?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/></a>
+<a href="https://github.com/ercanulucandev" target="_blank"><img src="https://img.shields.io/badge/go-%23121011.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
+<a href="https://github.com/ercanulucandev" target="_blank"><img src="https://img.shields.io/badge/apache-%23121011.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/></a>
+<a href="https://github.com/ercanulucandev" target="_blank"><img src="https://img.shields.io/badge/nginx-%23121011.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/></a>
+<a href="https://github.com/ercanulucandev" target="_blank"><img src="https://img.shields.io/badge/mariadb-%23121011.svg?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/></a>
+<a href="https://github.com/ercanulucandev" target="_blank"><img src="https://img.shields.io/badge/composer-%23121011.svg?style=for-the-badge&logo=composer&logoColor=white" alt="Composer"/></a>
 </p>
 
 ## Streak Stats
